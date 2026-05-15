@@ -121,6 +121,8 @@ Aun así, en general sentí que anduve bastante bien. El primer circuito lo hice
 
 ### Capítulo 1 del libro Hacia una filosofía de la fotografía, de Vilém Flusser
 
+Encuentro bastante interesante el texto, aunque nunca he sido muy cercana a la filosofía, ya que suelo perderme entre sus divagaciones y su forma de narrar con palabras poco comunes. Aun así, me parece muy interesante el análisis que se hace sobre las fotografías y las imágenes, porque algo que normalmente damos por sentado puede tener un trasfondo tan profundo. También me llamó la atención la interpretación sobre lo que significa ver una imagen, qué es lo que observamos, en qué nos enfocamos y cómo se le otorga un significado. La relación que el autor menciona entre textos e imágenes también me pareció interesante, especialmente la idea de cómo una puede llevar a la otra y viceversa, sin embargo, también me resulta llamativo que existan situaciones en las que esta relación no aplica, como ocurre con las ecuaciones de la teoría de la relatividad, que son textos imposibles de imaginar visualmente.
+
 
 
 
