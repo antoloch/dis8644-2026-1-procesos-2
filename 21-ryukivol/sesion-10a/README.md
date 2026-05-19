@@ -6,6 +6,8 @@
   ## Data
   - https://www.greenwichunigalleries.co.uk/for-want-of-not-measuring/
   - Flexidisc
+  - Hollycam app
+  - cureange app 
 
   ## Libro
 - Capitulos 1, 2 y 3:
@@ -15,7 +17,8 @@
 ## Charla 
 - compuesto de 2 personas oriundad de Inglaterra 
 - escala momtañas con medidores, eso dio inicio a sus proyectos
-- scaner con laser que ¨mide el mundo¨, el lsar v y vuelve al chocar conun objeto, generando un mapa virtual del mundo, la misma máquina busca bordes en los objetos, dejando atras el acto de medir sino el conecpto de nube, una superficie de red, va mas alla de lo que se ve a simple vista, luego puede navergar dentro del objeto escaneado 
+- scaner con laser que ¨mide el mundo¨, el lsar v y vuelve al chocar conun objeto, generando un mapa virtual del mundo, la misma máquina busca bordes en los objetos, dejando atras el acto de medir sino el conecpto de nube, una superficie de red, va mas alla de lo que se ve a simple vista, luego puede navergar dentro del objeto escaneado
+- le dan una vuelta al uso de esta herramienta, midiendo cosas que tal vez no se deberian medir 
 
 - sistema de ramificación de un árbol a trabes del scaner, contiene ondas y frecuencias 
 
