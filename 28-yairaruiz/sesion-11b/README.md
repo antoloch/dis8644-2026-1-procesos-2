@@ -11,7 +11,8 @@ IMPORTANTE: LOS ERRORES ESTABAN EN EL ESQUEMÁTICO, igual esto es uno de los pro
 
 + Problemas encontrados en el esquemático:
 
-imagen 
+
+![errores](./imagenes/errores.png/)
 
 + Agreguen una resistencia al transistor (no está en el original por error)
 
