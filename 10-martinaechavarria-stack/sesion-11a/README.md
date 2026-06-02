@@ -20,3 +20,7 @@ Resultado de como sonaba
 https://drive.google.com/file/d/11mrUJSaXKD5joxLgoZ7GbF0PNNWOAfez/view?usp=drive_link
 
 ### Encargo cap 8 y 9
+
+Cap. 8: En este se habla de cómo es que el espectador no ve la realidad a través de una fotografía, únicamente se ve una ilusión. Flusser lo llama magia de segundo grado, es una ilusión que te hace creer que la fotografía es una ventana a ese mundo, cuando en realidad es únicamente una fachada o una superficie codificada.
+
+Cap. 9: Este es un resumen y conclusión de lo hablado en el libro y nos comenta que es necesario analizar críticamente las fotografías y los aparatos tecnológicos para que podamos entender cómo afecta nuestro pensamiento. En el final nos invita a entender que la verdadera libertad está en el uso de la conciencia y creatividad con estas tecnologías.
