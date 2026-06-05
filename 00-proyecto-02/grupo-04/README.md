@@ -45,7 +45,7 @@ Preguntas orientadoras: ¿Qué inputs recibe? ¿Qué outputs entrega? ¿Cómo ad
 
 ### Documentación audiovisual funcionamiento protoboard 1
 
-Incluir enlace a video en youtube (puede estar en Oculto) con protoboard funcionando
+https://youtube.com/shorts/mDQom4hty6A?si=wljWdzG3RVMwezJX
 
 ## Circuito 2
 
