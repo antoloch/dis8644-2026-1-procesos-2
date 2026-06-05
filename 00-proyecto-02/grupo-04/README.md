@@ -18,6 +18,12 @@ Tema del grupo: **Oscilador 2**
 
 
 ![*chirihue mecanizado*](./imagenes/titulo1oscilador1.gif)
+*(Video generado con Google flow)*
+
+<br>
+<br>
+<br>
+<br>
 
 *"Desembarcando en Riñihue*
 
@@ -32,6 +38,11 @@ Tema del grupo: **Oscilador 2**
 *Le vino a dar un concierto"*
 
 — Violeta Parra 
+
+<br>
+<br>
+<br>
+<br>
 
 ### Descripción general/conceptual
 
@@ -78,10 +89,22 @@ Tema del grupo: **Oscilador 2**
 
 _____________________________________________________________________
 
+<br>
+<br>
+<br>
+<br>
+
 ## Propuesta 02: Comunicaciones espaciales
 
 ![*Comunicaciones espaciales*](./imagenes/titulo2osciladorr2.gif)
+*Video perteneciente a “MotionVibe”, en Youtube.*
+
 ![## Propuesta 02: Comunicaciones espaciales](./imagenes/titulo2oscilador2.gif)
+
+<br>
+<br>
+<br>
+<br>
 
 *Espacio, miles de kilómetros de espacio,*
 
@@ -95,6 +118,12 @@ _____________________________________________________________________
 
 —Calidoscopio - Ray Bradbury
 
+<br>
+<br>
+<br>
+<br>
+
+![comunicacion](./imagenes/comunicacion.jpg)
 ![comunicacion](./imagenes/comunicacion.png)
 
 *imagen: Schauer, K. (2021)*
@@ -145,7 +174,7 @@ _____________________________________________________
 
 ### ¿Cómo me ayudó otro grupo?
 
-- El grupo 03 (osciladores 01), nos ayudó prestandonos 2 potenciómetros que se nos habían dañado. También, Carla, integrante del grupo 06, nos enseñó en la sala de clases como importar una librería de huellas (que serían los estándares generales para la entrega de la solemne 02).
+- El grupo 03 (osciladores 01), nos ayudó prestandonos 2 potenciómetros que se nos habían dañado. También, Carla, integrante del grupo 06, nos enseñó en la sala de clases como importar una librería de huellas (que serían los estándares generales para la entrega de la solemne 02). Además, Vania, Nico y Cata (también perteneciente del grupo 06), se tomaron el tiempo de explicarnos cómo funcionaba y se conectaba el barrel y audio jack.
 
 ## Bibliografía
 
