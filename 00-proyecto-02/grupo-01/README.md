@@ -16,7 +16,7 @@ Integrantes:
 
 ## Circuito 1
 
-Título módulo 1
+maincra
 
 ### Descripción general/conceptual 1
 
@@ -96,7 +96,7 @@ Incluir enlace a video en youtube (puede estar en Oculto) con protoboard funcion
 
 ## Circuito 2
 
-Título módulo 2
+Budumtz
 
 ### Descripción general/conceptual 2
 
